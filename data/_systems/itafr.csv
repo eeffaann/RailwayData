@@ -1,0 +1,8 @@
+systemName;region;route;banner;abbrev;city;root;altRouteNames
+itafr;ITA-PIE;TorSal;;;Turin - Salerno;itapie.torsal;
+itafr;ITA-LOM;TorSal;;;Turin - Salerno;italom.torsal;
+itafr;ITA-EMI;TorSal;;;Turin - Salerno;itaemi.torsal;
+itafr;ITA-TOS;TorSal;;;Turin - Salerno;itatos.torsal;
+itafr;ITA-UMB;TorSal;;;Turin - Salerno;itaumb.torsal;
+itafr;ITA-LAZ;TorSal;;;Turin - Salerno;italaz.torsal;
+itafr;ITA-CAM;TorSal;;;Turin - Salerno;itacam.torsal;
