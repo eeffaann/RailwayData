@@ -1,6 +1,7 @@
 LonWat http://www.openstreetmap.org/?lat=51.502832&lon=-0.112803
 +X109750 http://www.openstreetmap.org/?lat=51.492339&lon=-0.118969
 Vau http://www.openstreetmap.org/?lat=51.485849&lon=-0.122749
++DIV_Int http://www.openstreetmap.org/?lat=51.479472&lon=-0.135291
 QueRd http://www.openstreetmap.org/?lat=51.475209&lon=-0.146306
 ClaJct http://www.openstreetmap.org/?lat=51.464663&lon=-0.170546
 WanTown http://www.openstreetmap.org/?lat=51.460968&lon=-0.188254
@@ -10,6 +11,7 @@ Bar http://www.openstreetmap.org/?lat=51.466788&lon=-0.241179
 BarBri http://www.openstreetmap.org/?lat=51.471411&lon=-0.251728
 Chi http://www.openstreetmap.org/?lat=51.481057&lon=-0.267990
 KewBri http://www.openstreetmap.org/?lat=51.489732&lon=-0.288429
++DIV_Act http://www.openstreetmap.org/?lat=51.490165&lon=-0.294539
 Bre http://www.openstreetmap.org/?lat=51.487518&lon=-0.310066
 SyonLn http://www.openstreetmap.org/?lat=51.481715&lon=-0.324955
 Isl http://www.openstreetmap.org/?lat=51.474880&lon=-0.336899
